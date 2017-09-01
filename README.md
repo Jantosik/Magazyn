@@ -1,0 +1,2 @@
+# Magazyn
+Nowy schowek
